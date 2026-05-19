@@ -83,6 +83,9 @@ The best-performing model was SVM with RobustScaler normalization.
 
 ![Model Comparison](CompareModel.png)
 
+![Results Models](ResultsComp.png)
+
+
 The figure below compares SVM, Logistic Regression, Random Forest, and XGBoost models using Leave-One-Subject-Out Cross Validation (LOOCV).
 
 ---
