@@ -26,6 +26,11 @@ Features extracted from transformed images included:
 
 CT-FIRE was used for collagen fiber reconstruction and quantitative fiber analysis.
 
+# CT-FIRE Collagen Feature Extraction 
+
+![Collagen](Collagen.png)
+
+
 ---
 
 # CT-FIRE Technical Issues and Solutions
