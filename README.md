@@ -74,6 +74,11 @@ Multiple combinations of imaging and clinical features were tested, including:
 - Angle Median
 
 The best-performing model was SVM with RobustScaler normalization.
+# Model Comparison
+
+![Model Comparison](CompareModel.png)
+
+The figure below compares SVM, Logistic Regression, Random Forest, and XGBoost models using Leave-One-Subject-Out Cross Validation (LOOCV).
 
 ---
 
@@ -97,6 +102,11 @@ The best-performing model was SVM with RobustScaler normalization.
 | Sensitivity | 1.000 |
 | Specificity | 0.647 |
 
+# Confusion Matrices
+
+![Confusion Matrix](Confusion.png)
+
+Confusion matrices for all evaluated machine learning models.
 ---
 
 # Visualizations
@@ -110,6 +120,11 @@ The repository includes:
 - Binary collagen masks
 
 ---
+# Final Results
+
+![Final Results](FinalResults.png)
+
+Comparison of AUC, Accuracy, F1-score, Precision, Recall, Sensitivity, and Specificity across all models.
 
 # Technologies
 
